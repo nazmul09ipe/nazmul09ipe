@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Md. Nazmul Haque
 
-### JavaScript Engineer | Frontend Developer
+###  Frontend Developer | Javascript Enthusiast
 
 I'm a passionate JavaScript Engineer with professional experience building modern, scalable, and high-performance web applications. I enjoy transforming complex business requirements into intuitive user experiences using the React ecosystem.
 
