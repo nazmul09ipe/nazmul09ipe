@@ -1,10 +1,11 @@
 # Hi there 👋, I'm Md. Nazmul Haque
 
-Frontend Engineer | MERN Stack Developer
+## **Frontend Engineer | MERN Stack Developer**
 
-I'm a MERN Stack Engineer with a strong specialization in frontend development, passionate about building modern, scalable, and high-performance web applications. My expertise lies in creating intuitive, responsive, and user-centric interfaces using React.js, Next.js, and the modern JavaScript ecosystem, while also developing robust backend services with Node.js, Express.js, and MongoDB.
+I'm a **MERN Stack Engineer** with a strong specialization in **frontend development**, passionate about building **modern**, **scalable**, and **high-performance web applications**. My expertise lies in creating **intuitive**, **responsive**, and **user-centric interfaces** using **React.js**, **Next.js**, and the **modern JavaScript ecosystem**, while also developing robust backend services with **Node.js**, **Express.js**, and **MongoDB**.
 
-Currently, I'm working as a Frontend Developer at Purrfect Software Ltd, where I develop and maintain production-ready applications, collaborate with cross-functional teams, integrate RESTful APIs, and focus on delivering clean, maintainable, and performant solutions. I'm continuously expanding my backend expertise to build complete end-to-end MERN applications.
+Currently, I'm working as a **Frontend Developer** at **Purrfect Software Ltd**, where I develop and maintain **production-ready applications**, collaborate with **cross-functional teams**, integrate **RESTful APIs**, and focus on delivering **clean**, **maintainable**, and **performant solutions**. I'm continuously expanding my **backend expertise** to build complete **end-to-end MERN applications**.
+
 
 ## 🚀 About Me
 
