@@ -1,88 +1,26 @@
-# Hi there 👋, I'm Md. Nazmul Haque
+# Hello, I'm **Md. Nazmul Haque** 👋
 
-## **Frontend Engineer | MERN Stack Developer**
+### Frontend Engineer | MERN Stack Developer
 
-I'm a **MERN Stack Engineer** with a strong specialization in **frontend development**, passionate about building **modern**, **scalable**, and **high-performance web applications**. My expertise lies in creating **intuitive**, **responsive**, and **user-centric interfaces** using **React.js**, **Next.js**, and the **modern JavaScript ecosystem**, while also developing robust backend services with **Node.js**, **Express.js**, and **MongoDB**.
+🔭 I'm currently working as a **Frontend Developer** at **Purrfect Software Ltd**.
 
-Currently, I'm working as a **Frontend Developer** at **Purrfect Software Ltd**, where I develop and maintain **production-ready applications**, collaborate with **cross-functional teams**, integrate **RESTful APIs**, and focus on delivering **clean**, **maintainable**, and **performant solutions**. I'm continuously expanding my **backend expertise** to build complete **end-to-end MERN applications**.
+🌱 I'm currently focusing on **React.js**, **Next.js**, **Node.js**, and **Express.js**.
 
+⚛️ I specialize in building **modern, scalable, and responsive web applications** with the **MERN Stack**, with a strong focus on **frontend development**.
 
-## 🚀 About Me
+💼 Experienced in **JavaScript**, **TypeScript**, **React.js**, **Next.js**, **Redux Toolkit**, **React Query**, **Node.js**, **Express.js**, **MongoDB**, and **REST APIs**.
 
-* 💼 Frontend Developer at **Purrfect Software Ltd**
-* 🌱 Currently expanding my expertise in **Next.js**, **Node.js**, and **Express.js**
-* ⚛️ Passionate about React ecosystem and modern JavaScript
-* 🔍 Interested in writing clean, reusable and maintainable code
-* 📚 Continuously learning software architecture and best development practices
-* 🤝 Open to Frontend Engineer and JavaScript Developer opportunities
+🚀 I enjoy building **dashboard applications**, **admin panels**, **authentication systems**, and **performance-optimized user interfaces**.
 
----
+📚 Currently learning **Advanced React Patterns**, **System Design**, and **Backend Architecture**.
 
-## 💻 Tech Stack
+💬 Ask me about **JavaScript**, **React.js**, **Next.js**, **Node.js**, **Express.js**, and the **MERN Stack**.
 
-### Frontend
+🌐 Portfolio: **https://my-portfolio-web-548de.web.app**
 
-* React.js
-* Next.js
-* JavaScript (ES6+)
-* TypeScript
-* Redux Toolkit
-* React Query (TanStack Query)
-* HTML5
-* CSS3
-* Tailwind CSS
-* Bootstrap
-* Material UI
+💼 LinkedIn: **https://www.linkedin.com/in/md-nazmul-haque-130537105/**
 
-### Backend
-
-* Node.js
-* Express.js
-* REST API Development
-* JWT Authentication
-
-### Database
-
-* MongoDB
-* Firebase
-
-### Tools
-
-* Git & GitHub
-* VS Code
-* Postman
-* npm
-* Vite
-
----
-
-## 🎯 What I Enjoy Building
-
-* Responsive Web Applications
-* Scalable React Applications
-* Dashboard & Admin Panels
-* API Integration
-* Authentication Systems
-* Reusable Component Libraries
-* Performance Optimized User Interfaces
-
----
-
-## 📈 Currently Learning
-
-* Advanced React Patterns
-* Next.js App Router
-* Backend Development with Node.js
-* System Design for Frontend Engineers
-* Performance Optimization
-
----
-
-## 📫 Let's Connect
-
-* 🌐 Portfolio: https://my-portfolio-web-548de.web.app
-* 💼 LinkedIn: https://www.linkedin.com/in/md-nazmul-haque-130537105/
-* 🐙 GitHub: https://github.com/nazmul09ipe
+🐙 GitHub: **https://github.com/nazmul09ipe**
 
 ---
 
